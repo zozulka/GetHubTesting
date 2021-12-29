@@ -1,0 +1,6 @@
+files:
+  - source: '*.*'
+    ignore:
+      - '*.csv'
+      - '*.xlsx'
+    translation: /translation/%locale%/%original_file_name%
