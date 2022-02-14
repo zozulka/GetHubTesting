@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file id="19704" original="/Example (AndroidXML).xml" source-language="en" target-language="uk" datatype="plaintext">
     <body>
-      <trans-unit id="874396" maxwidth="20" size-unit="char">
+      <trans-unit id="874396" maxwidth="20" size-unit="char" approved="yes">
         <source>text</source>
-        <target state="translated">текст</target>
+        <target state="final">текст</target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397" approved="yes">
