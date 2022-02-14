@@ -7,14 +7,14 @@
         <target state="translated">текст</target>
         <note>Context</note>
       </trans-unit>
-      <trans-unit id="874397">
+      <trans-unit id="874397" approved="yes">
         <source>text 1</source>
-        <target state="translated">текст</target>
+        <target state="final">текст 7</target>
         <note>Context 1</note>
       </trans-unit>
-      <trans-unit id="874398">
+      <trans-unit id="874398" approved="yes">
         <source>text 2</source>
-        <target state="translated">текст</target>
+        <target state="final">текст 13</target>
         <context context-type="context">Context of the segment 2</context>
       </trans-unit>
       <trans-unit id="874399" translate="no">
