@@ -1,5 +1,5 @@
 files:
-  - source: '*.*'
+  - source: crowdin_sample_webpage (1).html
     ignore:
       - '*.csv'
       - '*.xlsx'
