@@ -1,6 +1,6 @@
 files:
-  - source: crowdin_sample_webpage (1).html
+  - source: test/Example.json
     ignore:
       - '*.csv'
       - '*.xlsx'
-    translation: /translation/%locale%/%original_file_name%
+    translation: /test/%two_letters_code%/Example.json
